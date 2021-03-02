@@ -16,4 +16,5 @@ No input.
 
 | Name | Description |
 |------|-------------|
+| goodbye | n/a |
 | hello | n/a |
