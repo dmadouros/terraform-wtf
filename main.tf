@@ -16,3 +16,7 @@ output "hello" {
   value = "world"
 }
 
+output "goodbye" {
+  value = "cruel-world"
+}
+
