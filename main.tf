@@ -20,7 +20,7 @@ output "goodbye" {
   value = "cruel-world"
 }
 
-output "ad" {
+output "arrested-development" {
   value = "comeon"
 }
 
