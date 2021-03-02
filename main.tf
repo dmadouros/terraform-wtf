@@ -13,7 +13,7 @@ provider "aws" {
 }
 
 output "hello" {
-  value = "world"
+  value = "world!"
 }
 
 output "goodbye" {
