@@ -12,7 +12,7 @@ provider "aws" {
   region  = "us-west-1"
 }
 
-output "hello" {
+output "hellox" {
   value = "world!"
 }
 
