@@ -20,3 +20,7 @@ output "goodbye" {
   value = "cruel-world"
 }
 
+output "ad" {
+  value = "comeon"
+}
+
